@@ -39,6 +39,9 @@ Application state is handled entirely by the Vue 3 composible.  In it I have a `
 
 The homescreen containes a searchbar or dropdowns dependent on which knob you select.  The live search feature allows for a constant refresh of recipes as the input is updated.  When you click on a recipe you will be brough to that recipe's description page.
 
+## Future changes
+1. Make design responsive 
+
 ## Project Setup
 
 ```sh
