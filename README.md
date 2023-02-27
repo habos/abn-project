@@ -1,6 +1,6 @@
 # abn-project
 
-This template should help get you started developing with Vue 3 in Vite.
+A small project for the ABN application process
 
 ## Recommended IDE Setup
 
